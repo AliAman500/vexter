@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Vexter is a top-down 2D game created during my high school years as a hobby project. In this game, players control a character using the arrow keys to move around a procedurally generated world composed of rooms. The player can collide with walls, and a complete movement animation was implemented.
+Vexter is a top-down 2D game created during my high school years as a hobby project in 2018. In this game, players control a character using the arrow keys to move around a procedurally generated world composed of rooms. The player can collide with walls, and a complete movement animation was implemented.
 
 Additionally, I built a separate fully functional GUI program for designing individual rooms, their exits, tiles, sprites, dimensions, and how the rooms connect with each other. All this data was stored in a `.rmf` file and parsed when the world was being generated. 
 
