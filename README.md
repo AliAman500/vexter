@@ -6,7 +6,7 @@ Vexter is a top-down 2D game created during my high school years. In this game, 
 
 Additionally, I built a separate fully functional GUI program for designing individual rooms, their exits, tiles, sprites, dimensions, and how the rooms connect with each other. All this data was stored in a `.rmf` file and parsed when the world was being generated. 
 
-Unfortunately, this is as far as development went due to the increasing demands of school, summer jobs, and eventually university. Despite the limited feature set, Vexter represents a significant personal achievement in game development, as all aspects of the game—art, animation, and gameplay—were created by me.
+Unfortunately, this is as far as development went due to the increasing demands of school, summer jobs, and eventually university. Despite the limited feature set, Vexter represents a significant personal achievement in game development, as all aspects of the game—art, animation, programming, and gameplay—were created by me.
 
 ## Code Recovery and Preservation
 
