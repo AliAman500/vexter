@@ -1,6 +1,3 @@
-Here's the raw README file:
-
-```
 # Vexter - A Top-Down 2D Game
 
 ## Project Overview
@@ -57,6 +54,3 @@ This will build the project and run the game.
 ## Contact
 
 If you have any questions or would like to request permission for commercial use, please feel free to reach out.
-```
-
-You can copy and paste this directly into your README file.
