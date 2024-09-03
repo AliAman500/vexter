@@ -1,0 +1,69 @@
+IDs 14 14 14 15 15 15 16 17 
+BorderIDs 10 11 12 13 18 
+GridDimensions 32 20
+ExitMap(U) 6 2
+ExitMap(D) 6 1
+ExitMap(L) 1 4
+ExitMap(R) 1 4
+BlockInfo 2 1 0 true
+BlockInfo 2 2 0 true
+BlockInfo 2 3 0 true
+BlockInfo 2 4 0 true
+BlockInfo 2 5 0 true
+BlockInfo 2 6 0 true
+BlockInfo 2 7 0 true
+BlockInfo 2 8 0 true
+BlockInfo 2 9 0 true
+BlockInfo 2 10 0 true
+BlockInfo 2 11 0 true
+BlockInfo 2 12 0 true
+BlockInfo 2 13 0 true
+BlockInfo 2 14 0 true
+BlockInfo 6 0 0 true
+BlockInfo 8 15 0 true
+BlockInfo 5 15 1 true
+BlockInfo 5 15 2 true
+BlockInfo 5 15 3 true
+BlockInfo 5 15 4 true
+BlockInfo 5 15 5 true
+BlockInfo 5 15 6 true
+BlockInfo 5 15 7 true
+BlockInfo 5 15 8 true
+BlockInfo 4 0 1 true
+BlockInfo 4 0 2 true
+BlockInfo 4 0 3 true
+BlockInfo 4 0 4 true
+BlockInfo 4 0 5 true
+BlockInfo 4 0 6 true
+BlockInfo 4 0 7 true
+BlockInfo 4 0 8 true
+BlockInfo 7 0 9 true
+BlockInfo 9 15 9 true
+BlockInfo 3 1 9 true
+BlockInfo 3 2 9 true
+BlockInfo 3 3 9 true
+BlockInfo 3 4 9 true
+BlockInfo 3 5 9 true
+BlockInfo 3 6 9 true
+BlockInfo 3 7 9 true
+BlockInfo 3 8 9 true
+BlockInfo 3 9 9 true
+BlockInfo 3 10 9 true
+BlockInfo 3 11 9 true
+BlockInfo 3 12 9 true
+BlockInfo 3 13 9 true
+BlockInfo 3 14 9 true
+BlockInfo 18 1 1 true
+BlockInfo 18 2 1 true
+BlockInfo 18 3 1 true
+BlockInfo 18 4 1 true
+BlockInfo 18 5 1 true
+BlockInfo 18 6 1 true
+BlockInfo 18 7 1 true
+BlockInfo 18 8 1 true
+BlockInfo 18 9 1 true
+BlockInfo 18 10 1 true
+BlockInfo 18 11 1 true
+BlockInfo 18 12 1 true
+BlockInfo 18 13 1 true
+BlockInfo 18 14 1 true
